@@ -25,6 +25,6 @@
   "author": "Mark Marijnissen",
   "license": "MIT",
   "dependencies": {
-    "cordova-file-cache": "^1.1.1"
+    "cordova-file-cache": "https://github.com/dolezel/cordova-file-cache#fix-onSingleDownloadProgress-not-function"
   }
 }
